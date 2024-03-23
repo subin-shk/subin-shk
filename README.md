@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Subin Shakya</h1>
 <h3 align="center">Computer Science Student from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.shakyasubin.com.np/](https://www.shakyasubin.com.np/)
+- 👨‍💻 My portfolio website: [https://www.shakyasubin.com.np/](https://www.shakyasubin.com.np/)
 
-- 📫 How to reach me **subin12.shakya@gmail.com**
+- 📫 How to reach me: **subin12.shakya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
