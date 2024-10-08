@@ -1,4 +1,4 @@
-<h1 align="center">Subin Shakya
+<h1 align="center">Subin
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=24&pause=1000&color=00FFD3&width=270&lines=Computer+Science+Student" alt="Typing SVG" /></a>
 
