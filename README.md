@@ -5,10 +5,10 @@
 </h1>
 
 
-# 😎 Badges: 
+<h1 align="center"> 😎 Badges: </h1>
 [![An image of @subinshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subinshk)](https://holopin.io/@subinshk)
 
-# 📊 GitHub Stats:
+<h1 align="center">  📊 GitHub Stats: </h1>
 <table align="center">
   <tr>
     <td>
@@ -28,7 +28,7 @@
 
 
 
-## 🏆 GitHub Trophies
+<h1 align="center"> 🏆 GitHub Trophies </h1>
 ![](https://github-profile-trophy.vercel.app/?username=subin-shk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
