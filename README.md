@@ -5,7 +5,7 @@
 </h1>
 
 
-<h2 align="center"> 😎 Badges: </h2>
+<h2 align="center"> 😎 Holopin Badges: </h2>
 
 [![An image of @subinshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subinshk)](https://holopin.io/@subinshk)
 
