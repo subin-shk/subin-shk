@@ -22,8 +22,12 @@
 </a>
 </div>
 
+<br />
+
 <p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=subin-shk">Click to see my Stats in GSSoC'24 Extd Leaderboard</a>
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=subin-shk">
+    <img src="https://img.shields.io/badge/See%20My%20Stats%20in%20GSSoC'24%20Extd%20Leaderboard-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See my Stats in GSSoC'24 Extd Leaderboard"/>
+  </a>
 </p>
 
 <h2 align="center"> 📊 GitHub Stats: </h2>
