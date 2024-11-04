@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=subin-shk">
-    <img src="https://img.shields.io/badge/See%20My%20Stats%20in%20GSSoC'24%20Extd%20Leaderboard-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See my Stats in GSSoC'24 Extd Leaderboard"/>
+    <img src="https://img.shields.io/badge/Click%20To%20See%20My%20Stats%20in%20GSSoC'24%20Extd%20Leaderboard-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See my Stats in GSSoC'24 Extd Leaderboard"/>
   </a>
 </p>
 
