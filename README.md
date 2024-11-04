@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" style="width: 7vw; max-width: 80px; height: auto;" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" style="width: 7vw; max-width: 80px; height: auto;" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" style="width: 7vw; max-width: 80px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" style="width: 7vw; max-width: 80px; height: auto;" />
+<!--     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" style="width: 7vw; max-width: 80px; height: auto;" /> -->
   </a>
 </div>
 
