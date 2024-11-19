@@ -11,14 +11,14 @@
 
 <h2 align="center"> 🪶 GSSoC 2024 - Extd Badges  </h2>
 <div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" style="width: 7vw; max-width: 60px; height: auto;" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" style="width: 7vw; max-width: 60px; height: auto;" />
+  <a href="https://gssoc.girlscript.tech/leaderboard" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 7px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" style="width: 7vw; max-width: 80px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" style="width: 7vw; max-width: 80px; height: auto;" />
 <!--     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" style="width: 7vw; max-width: 80px; height: auto;" /> -->
   </a>
 </div>
