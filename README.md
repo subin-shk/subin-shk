@@ -9,6 +9,8 @@
 
 [![An image of @subinshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subinshk)](https://holopin.io/@subinshk)
 
+<!--
+
 <h2 align="center"> 🪶 GSSoC 2024 - Extd Badges  </h2>
 <div align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 7px;">
@@ -19,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" style="width: 7vw; max-width: 80px; height: auto;" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" style="width: 7vw; max-width: 80px; height: auto;" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" style="width: 7vw; max-width: 80px; height: auto;" />
-<!--     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" style="width: 7vw; max-width: 80px; height: auto;" /> -->
+
   </a>
 </div>
 
@@ -31,6 +33,8 @@
     <img src="https://img.shields.io/badge/Click%20To%20See%20My%20Stats%20in%20GSSoC'24%20Extd%20Leaderboard-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See my Stats in GSSoC'24 Extd Leaderboard"/>
   </a>
 </p>
+
+-->
 
 <h2 align="center"> 🧑🏻‍💻 Tech Stack: </h2>
 
