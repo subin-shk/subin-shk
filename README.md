@@ -48,6 +48,15 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![SELENIUM](https://img.shields.io/badge/-SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![APPIUM](https://img.shields.io/badge/-APPIUM-00A0DC?style=for-the-badge&logo=appium&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robotic Process Automation (RPA)](https://img.shields.io/badge/-Robotic%20Process%20Automation%20(RPA)-000000?style=for-the-badge&logo=automattic&logoColor=white)
+
+
+
+
+
 
 
 </div>
