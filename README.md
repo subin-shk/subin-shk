@@ -61,10 +61,14 @@
 
 </div>
 
-<h2 align="center">  📊 GitHub 3D Contribution Graph </h2>
+<h2 align="center">  📊 GitHub Contribution Graph </h2>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="800"/>
+</p>
+<!--
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
+-->
 
 <!-- <h2 align="center"> 📊 GitHub Stats: </h2>
  
