@@ -106,9 +106,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
+</p> -->
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark" alt="subin-shk featured projects" /></picture>
