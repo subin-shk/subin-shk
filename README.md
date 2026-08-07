@@ -1,10 +1,10 @@
-<h1 align="center">Subin Shakya
+<!-- <h1 align="center">Subin Shakya
 </h1>
 
 
 <h2 align="center"> 😎 Holopin Badges: </h2>
 
-[![An image of @subinshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subinshk)](https://holopin.io/@subinshk)
+[![An image of @subinshk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subinshk)](https://holopin.io/@subinshk) -->
 
 <!--
 
@@ -33,7 +33,7 @@
 
 -->
 
-<h2 align="center"> 🧑🏻‍💻 Tech Stack: </h2>
+<!-- <h2 align="center"> 🧑🏻‍💻 Tech Stack: </h2>
 
 <div align="center">
   
@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="800"/>
-</p>
+</p> -->
 <!--
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 -->
@@ -91,6 +91,37 @@
 ![](https://github-profile-trophy.vercel.app/?username=subin-shk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 --- -->
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=subin-shk&theme=github-dark" alt="𝒮ubin profile hero" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=subin-shk&theme=github-dark" alt="About 𝒮ubin" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=subin-shk&theme=github-dark" alt="Language stack" /></picture>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark" alt="subin-shk featured projects" /></picture>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=subin-shk&theme=github-dark&website=https%3A%2F%2Fwww.shakyasubin.com.np&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=subin-shk&theme=github-dark&website=https%3A%2F%2Fwww.shakyasubin.com.np" alt="subin-shk social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subin-shk) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shakyasubin.com.np)
+
 
 
 
