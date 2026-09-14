@@ -96,6 +96,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=subin-shk&theme=github-dark" alt="𝒮ubin profile hero" /></picture>
 </p>
 
+ <!--
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=subin-shk&theme=github-dark" alt="About 𝒮ubin" /></picture>
 </p>
@@ -110,7 +111,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=subin-shk&theme=github-dark" alt="GitHub Stats" /></picture>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=subin-shk&theme=github-dark" alt="subin-shk featured projects" /></picture>
 </p>
 
@@ -120,8 +121,29 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=subin-shk&theme=github-dark&website=https%3A%2F%2Fwww.shakyasubin.com.np&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=subin-shk&theme=github-dark&website=https%3A%2F%2Fwww.shakyasubin.com.np" alt="subin-shk social links" /></picture>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subin-shk) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shakyasubin.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subin-shk) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shakyasubin.com.np) -->
 
 
+
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=745&height=44&lines=I%20do%20Quality%20Assurance;Maintaining%20software%20quality%20one%20test%20at%20a%20time" alt="Typing headlines" />
+</p> -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=subin-shk&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=subin-shk&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=subin-shk&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/subin-shk">subin-shk</a></i></p>
 
 
